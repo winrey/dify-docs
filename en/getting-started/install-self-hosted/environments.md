@@ -209,6 +209,7 @@ Used to store uploaded data set files, team/tenant encryption keys, and other fi
 * S3\_ACCESS\_KEY: S3 Access Key
 * S3\_SECRET\_KEY: S3 Secret Key
 * S3\_REGION: S3 region information, such as: us-east-1
+* S3\_ADDRESS\_STYLE：S3 Address style，such as: 'virtual' for aliyun OSS
 * AZURE_BLOB_ACCOUNT_NAME: your-account-name eg, 'difyai'
 * AZURE_BLOB_ACCOUNT_KEY: your-account-key eg, 'difyai'
 * AZURE_BLOB_CONTAINER_NAME: your-container-name eg, 'difyai-container'
