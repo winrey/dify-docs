@@ -203,6 +203,7 @@ Flask 调试模式，开启可在接口输出 trace 信息，方便调试。
 * S3\_ACCESS\_KEY：S3 Access Key
 * S3\_SECRET\_KEY：S3 Secret Key
 * S3\_REGION：S3 地域信息，如：us-east-1
+* S3\_ADDRESS\_STYLE：S3域名地址风格，如：aliyun OSS要设置为'virtual'
 * AZURE_BLOB_ACCOUNT_NAME: your-account-name 如 'difyai'
 * AZURE_BLOB_ACCOUNT_KEY: your-account-key 如 'difyai'
 * AZURE_BLOB_CONTAINER_NAME: your-container-name 如 'difyai-container'
